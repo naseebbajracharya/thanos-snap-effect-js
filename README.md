@@ -6,5 +6,5 @@ Using HTML, CSS, JavaScript
 ![](thanos-snap.gif)
 
 ```sh
-Thanks to TK for this wonderfull snap tutorial
+Thanks to TK for this wonderful snap tutorial
 ```
