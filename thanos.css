@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(114, 114, 114);
+}
+
+#snap_button {
+  background:url("/img/gauntlet.gif") white 15px no-repeat;
+  margin-top: 20px;
+  border-radius: 10px;
+  background-size: 50px;
+  padding: 20px 40px 20px 40px ;
+}
+
+.dust {
+  position: absolute;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background: rgb(114, 114, 114);
+}
+
+
+
+
